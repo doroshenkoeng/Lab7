@@ -1,3 +1,13 @@
+/**
+ * <b>Laboratory work 7</b> <br>
+ * <p>OOP paradigms </p> <br>
+ * <b>Goal</b> <br>
+ * <p>Learn OOP features in Java.</p>
+ * <b>Task</b> <br>
+ * <p>Rewrite your C++ laboratory work 1 in Java.</p>
+ * @author Sergey Doroshenko
+ * @version 1
+ */
 public class Main {
     public static void main(String[] args) {
 
